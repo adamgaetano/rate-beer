@@ -1,3 +1,5 @@
+// Copyright 2018 Adam Gaetano. All Rights Reserved.
+
 package com.mushy.beer;
 
 import android.content.ContentValues;
